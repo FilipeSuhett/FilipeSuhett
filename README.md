@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **filipe.gmx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S9gVcsTiB7EYmuJHrHPwrHU2sSacBnPK/view?usp=sharing](https://drive.google.com/file/d/1S9gVcsTiB7EYmuJHrHPwrHU2sSacBnPK/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1P3i5LFstJhfDNlSVKYDNirrSxCaQ6H5c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
