@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipesuhett&label=Profile%20views&color=0e75b6&style=flat" alt="filipesuhett" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, SQL and C#**
+- 🌱 I’m currently learning **Deep Learning, SQL, NLP and C#**
 
 - 📫 How to reach me **filipe.gmx@gmail.com**
 
