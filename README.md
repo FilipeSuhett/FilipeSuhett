@@ -1,24 +1,74 @@
-<h1 align="center">Hi 👋, I'm Filipe Suhett</h1>
-<h3 align="center">A developer looking to learn more</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+## Salve, Devs 👋
+### O meu nome é Filipe mais conhecido como Suhett e Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filipesuhett&label=Profile%20views&color=0e75b6&style=flat" alt="filipesuhett" /> </p>
+- 🔰 Sou de Vitória/ES, Brasil
+- ⚡ Apaixonado por Livros e Tecnologia
+- 🧠 Estudante de Sistemas de Informação no IFES Campus Serra
+- 🏦 Atualmente trabalho como Estagiário de DevOps na Wine, o maior clube de assinatura de vinhos do mundo com Sede em Serra/ES.
 
-- 🌱 I’m currently learning **Docker, Kubernetes and AWS**
+##
 
-- 📫 How to reach me **filipe.gmx@gmail.com**
+#### Tecnologias que tenho conhecimento:
+<div>
+<img src="https://skillicons.dev/icons?i=kubernetes"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=grafana"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=py"/>
+</div>
 
-- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1P3i5LFstJhfDNlSVKYDNirrSxCaQ6H5c/view?usp=sharing)
+##
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/filipe-suhett-a607a3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-suhett-a607a3254" height="30" width="40" /></a>
-<a href="https://discord.gg/_suhett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_suhett" height="30" width="40" /></a>
-</p>
+#### Como entrar em contato comigo:
+<div>
+<a href="https://www.linkedin.com/in/filipe-suhett-a607a3254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
+<a href ="filipe.gmx@gmail.com"><img src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black" target="_blank"></a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipesuhett&show_icons=true&locale=en&layout=compact" alt="filipesuhett" /></p>
+#### Experiência Profissional:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipesuhett&show_icons=true&locale=en" alt="filipesuhett" /></p>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFdeKMcwNgmTQ/company-logo_200_200/0/1674073591300?e=1708560000&v=beta&t=1DIzg0uxYakYBr8FPBKxlYKWWfj8r5fhwPjhrBgNArQ"/>](https://www.futurai.com.br/)
+
+**Estagiário de Data Science** \
+[**Futurai**](https://www.futurai.com.br/) • Internship • Jun/2023 - Out/2023 
+
+##
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4E0BAQGFbwS1mdV3Zg/company-logo_100_100/0/1700165369775/winecombr_logo?e=1708560000&v=beta&t=y-a8x76dUsinTw8MEdD64EhZIOq3tNABncBk5cozfZA"/>](https://www.wine.com.br/)
+
+**Estagiário de DevOps** \
+[**Wine**](https://www.wine.com.br/) • Internship • Out/2023 - Até o Momento 
+
+##
+##
+##
+
+#### Formação Acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQFND8qfsi3rQQ/company-logo_200_200/0/1630573233669/ifesoficial_logo?e=1708560000&v=beta&t=fhwb6J9EXnMzx3FqCJJ53TmyICVbgj2IEzJ4nTu6-F8"/>]()
+
+**Sistemas de Informação** \
+[**IFES Campus Serra**](https://www.ifes.edu.br/) 
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/filipe-suhett-a607a3254/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+##
+
+#### Estatísticas:
+<div>
+<a href="https://github.com/filipesuhett">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipesuhett&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=filipesuhett&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=filipesuhett&amp;theme=radical">
+</a>
+</div>
